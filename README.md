@@ -9,7 +9,6 @@ FlashLoanExample is a Solidity smart contract that demonstrates how to use flash
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [License](#license)
 
 ## Introduction
 
@@ -55,10 +54,5 @@ To use this contract, follow these steps:
 
 6. The flash loan is repaid to the Aave protocol, and the transaction is completed.
 
-## License
-
-This project is licensed under the UNLICENSED. Feel free to use the code as a reference for your own projects, and make sure to follow any applicable regulations and best practices when using flash loans or interacting with DeFi protocols.
-
-**Note:** The smart contract provided in this example is intended for educational and demonstrative purposes only. It may not be production-ready, and it's essential to thoroughly audit and test any code before deploying it to the mainnet or using it with real funds.
 
 Happy coding and have fun exploring the possibilities of flash loans with the Aave protocol!
